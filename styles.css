@@ -21,7 +21,7 @@ background-color: blue;
 	font-size:80px;
 }
 
-.container{
+.holder{
 	display: flex;
 	justify-content: space-between;
 	flex-wrap:wrap;
